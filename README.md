@@ -16,7 +16,7 @@
 - [MVP_Snakemake](https://github.com/vinegang/MVP_Snakemake) – Snakemake pipeline prototype
 - [ngs_pipeline_khanlab](https://github.com/CCRGeneticsBranch/ngs_pipeline_4.0) - Snakemake pipeline Exome, RNAseq, WGS
 
-
+## 🔗 Connect with Me  
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=aeeUpFgAAAAJ&hl=en&oi=ao)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineela-gangalapudi-41960a55/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--2886--0895-brightgreen?logo=orcid&logoColor=white)](https://orcid.org/0009-0000-2886-0895)
