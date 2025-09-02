@@ -15,6 +15,9 @@
 - [Meltzerlab workflow](https://github.com/CCRGeneticsBranch/MeltzerLab_Nextflow_pipeline) - Nextflow pipeline for human, dog and mouse genomes
 - [MVP_Snakemake](https://github.com/vinegang/MVP_Snakemake) – Snakemake pipeline prototype
 - [ngs_pipeline_khanlab](https://github.com/CCRGeneticsBranch/ngs_pipeline_4.0) - Snakemake pipeline Exome, RNAseq, WGS
+- [HowTos Documentation](https://CCRGeneticsBranch.github.io/HowTos/) – Guides, tutorials, and best practices for custom scripts.  
+
+
 
 ## 🔗 Connect with Me  
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=aeeUpFgAAAAJ&hl=en&oi=ao)
